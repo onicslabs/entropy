@@ -4,5 +4,5 @@ version = "0.0.1"
 authors = ["Cole Onics <cole@onicslabs.com>"]
 
 [dependencies]
-chrono = "0.2"
 rustc-serialize = "*"
+libc = "*"
