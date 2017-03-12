@@ -6,3 +6,4 @@ authors = ["Cole Onics <cole@onicslabs.com>"]
 [dependencies]
 rustc-serialize = "*"
 libc = "*"
+merkle = "*"
