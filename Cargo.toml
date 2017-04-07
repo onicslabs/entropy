@@ -4,6 +4,7 @@ version = "0.0.1"
 authors = ["Cole Onics <cole@onicslabs.com>"]
 
 [dependencies]
-rustc-serialize = "*"
 libc = "*"
 merkle = "*"
+mio = "0.6"
+rustc-serialize = "*"
